@@ -1,9 +1,9 @@
-package com.example.appmanga;
+package com.example.appmangafuza;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.appmanga.R;
+import com.example.appmangafuza.R;
 
 public class ProfileActivity extends AppCompatActivity {
     @Override

@@ -1,4 +1,4 @@
-package com.example.appmanga;
+package com.example.appmangafuza;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

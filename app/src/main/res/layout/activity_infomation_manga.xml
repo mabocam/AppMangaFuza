@@ -181,19 +181,19 @@
                     android:layout_width="0dp"
                     android:layout_height="50dp"
                     android:layout_weight="1"
-                    android:contentDescription="Bookmark"
-                    android:padding="8dp"
-                    android:src="@drawable/ic_phone"
+                    android:background="?attr/selectableItemBackground"
                     android:clickable="true"
+                    android:contentDescription="Bookmark"
                     android:focusable="true"
-                    android:background="?attr/selectableItemBackground"/>
+                    android:padding="8dp"
+                    android:src="@drawable/ic_follow_gre" />
 
                 <ImageView
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:layout_height="50dp"
                     android:padding="8dp"
-                    android:src="@drawable/ic_phone"
+                    android:src="@drawable/ic_share"
                     android:contentDescription="Share"
                     android:clickable="true"
                     android:focusable="true"
@@ -203,7 +203,7 @@
                     android:layout_weight="1"
                     android:layout_height="50dp"
                     android:padding="8dp"
-                    android:src="@drawable/ic_phone"
+                    android:src="@drawable/ic_heart"
                     android:contentDescription="Download"
                     android:clickable="true"
                     android:focusable="true"
